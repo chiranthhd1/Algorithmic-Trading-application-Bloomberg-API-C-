@@ -1,0 +1,1 @@
+# Algorithmic-Trading-application-Bloomberg-API-C-
